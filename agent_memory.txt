@@ -1,0 +1,2 @@
+ Agent Memory Log 
+Room: bedroom, Temp: 12, Action: None
